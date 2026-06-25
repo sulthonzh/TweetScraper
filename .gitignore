@@ -4,3 +4,7 @@ pyenv/
 geckodriver.log
 
 *.pyc
+__pycache__/
+.venv/
+*.egg-info/
+.mypy_cache/
