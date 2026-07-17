@@ -13,3 +13,4 @@ dist/
 build/
 .env
 .pytest_cache/
+.DS_Store
